@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8">
+		<title>Lista de compras</title>
+	</head>
+	<body>
+		<ul>
+			<li>Achocolatado em pó</li>
+			<li>Batata palha</li>
+			<li>Refrigerante</li>
+			<li>Cerveja</li>
+			<li>Vodka</li>
+			<li>Limões</li>
+		</ul>
+	</body>
+</html>
